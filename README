@@ -1,0 +1,22 @@
+# 10-Week Wellness Program
+
+This is a fully self-contained Vanilla JS HTML program for a 10-week wellness course with:
+
+- 10-week lessons
+- Mock quizzes
+- Progress tracking with `localStorage`
+- Coach view toggle
+- Expandable lessons with placeholders
+
+## How to run
+
+1. Clone the repository or download the ZIP.
+2. Open `index.html` in your browser.
+3. Interact with lessons, quizzes, and coach notes.
+
+## File Structure
+
+- `index.html` — main HTML file
+- `style.css` — styling
+- `app.js` — JavaScript logic
+- `README.md` — project overview
