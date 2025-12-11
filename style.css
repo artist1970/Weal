@@ -1,0 +1,20 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f9f9f9; }
+header { display: flex; justify-content: space-between; align-items: center; padding: 1rem 2rem; background: #4CAF50; color: white; position: sticky; top: 0; z-index: 100; }
+h1 { margin: 0; font-size: 1.5rem; }
+.coach-toggle { cursor: pointer; padding: 0.5rem 1rem; background: #fff; color: #4CAF50; border-radius: 4px; font-weight: bold; }
+.container { max-width: 900px; margin: 2rem auto; padding: 0 1rem; }
+.week { background: white; border-radius: 8px; margin-bottom: 1rem; box-shadow: 0 2px 5px rgba(0,0,0,0.1); overflow: hidden; transition: max-height 0.3s ease; }
+.week-header { display: flex; justify-content: space-between; align-items: center; padding: 1rem; cursor: pointer; }
+.week-title { font-weight: bold; }
+.week-focus { font-style: italic; color: #555; }
+.progress-container { background: #eee; border-radius: 5px; height: 10px; overflow: hidden; margin-top: 0.5rem; }
+.progress-bar { background: #4CAF50; height: 10px; width: 0%; transition: width 0.5s ease; }
+.lesson-content { padding: 1rem; display: none; animation: fadeIn 0.3s ease; }
+.lesson-link { display: block; margin-top: 0.5rem; color: #4CAF50; text-decoration: underline; cursor: pointer; }
+.quiz { margin-top: 1rem; }
+.quiz-question { margin-bottom: 0.5rem; }
+.quiz-option { margin-left: 1rem; }
+.btn { padding: 0.5rem 1rem; margin-top: 0.5rem; cursor: pointer; border: none; background: #4CAF50; color: white; border-radius: 4px; font-weight: bold; transition: background 0.3s ease; }
+.btn:hover { background: #45a049; }
+.coach-notes { background: #fffae6; padding: 1rem; margin-top: 1rem; border-left: 4px solid #ffc107; display: none; }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
