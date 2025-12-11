@@ -1,0 +1,11 @@
+LICENSE
+
+Verve N Veda and Khaemenes Academy
+
+All Rights Reserved 2025.
+
+This software, including all HTML, CSS, JavaScript, images, and related materials, is the exclusive property of Verve N Veda and Khaemenes Academy. 
+
+No part of this software may be reproduced, distributed, transmitted, displayed, or used for commercial purposes without explicit written permission from Verve N Veda and Khaemenes Academy.
+
+© 2025 Verve N Veda and Khaemenes Academy
